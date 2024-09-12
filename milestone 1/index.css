@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(1, 1, 12);
+    color: rgb(139, 120, 135);
+    padding-left: 15px;
+    margin-left:5px;right:10px; bottom:10px; top: auto;
+    font-weight: bold;
+}
+h3{
+ color: rgb(42, 4, 102);
+ font-size: xx-large;
+}
+h1{
+    color: rgb(57, 17, 95);
+    text-align: center;
+    text-decoration: underline;
+    
+}
+img{
+    width: 150px;
+}
